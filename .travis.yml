@@ -6,4 +6,7 @@ deploy:
     tags: true
     condition: "$TOXENV=quality"
   password:
-    secure:
+    secure: 
+env:
+  global:
+    secure: XIo6onCXf20L3bEWE/IBssbiFJed0NEUHiHCco49Sf/H8/zx1/TaytETSXHRidfG0sV7p9hBwa5Xuo7lEt5As+M0tBJlqdLaxnnegRR9J0fN5e68hHPGejejxutRYihKjXLuFPp/Of5ft6aqL/LqyCGc0NnA8IJpI7JRqNlhwOCbkxgAgAQ5FRVJ6GhyyEw8bL5k5woMnbzVFVao15DFrpERauVUtJffA6KJ5aowD1pZEOlJftGX5sok37E+nT3TBWrXJMOT8eqQm79Lfr2g22PgXNtjVYF/QbMfn4U3y20HfugKTCiTgPKd0i70h6IzIHHKFoCLO6k5jSrp8nbQj8Y6Q9LMXTvUthKsk764oxs3hUNOO1//zzNsRMiSBPF/rooZBUAusOFeaf2hxqC/vtFlW7RRgu92xv7e6rFpfSieIKgalzrhk/KSMrVqboLmiWLNdbuufzK3pM/4HXRmCdALIjRTls6VxKMi1mboamE99yymX0OaF5wvVCzCrgncBpXrSWblDblAqiydu0Kr6FSpk/7JwY7f0xe3j62FS2VcpbXwG/LUJtu5fV+8AO/qlZvcsA43T0Y3iGH0i8P+WYpGhL2gjRnJvJ6PEjURvAMTf0qO7l0+Y+0jA3oGx6YQ1RaKDJG4ysmghDYAGdbr2Ct3ZVkGsNeyro5DafuE1SY=
