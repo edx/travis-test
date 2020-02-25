@@ -1,0 +1,7 @@
+README.md
+setup.py
+test_travis.egg-info/PKG-INFO
+test_travis.egg-info/SOURCES.txt
+test_travis.egg-info/dependency_links.txt
+test_travis.egg-info/requires.txt
+test_travis.egg-info/top_level.txt
